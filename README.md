@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Personal learning prgress
+
+
+[![roadmap.sh](https://roadmap.sh/card/tall/66513eb3d6b907c7f7ad41b0?variant=dark)](https://roadmap.sh)
 <!--
 **fox12332/fox12332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
